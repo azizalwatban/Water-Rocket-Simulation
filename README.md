@@ -2,9 +2,9 @@
 
 About the Project:
 Goals:
-     Use ode45 to integrate a projectile trajectory
-     Find the position trajectory for a three-phase water rocket
-     Adjust parameters to achieve 80 +/- 1 m landing
+     1) Use ode45 to integrate a projectile trajectory
+     2) Find the position trajectory for a three-phase water rocket
+     3) Adjust parameters to achieve 80 +/- 1 m landing
     
 Steps:
      1) Set constants
